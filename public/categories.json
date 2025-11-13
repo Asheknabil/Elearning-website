@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "FaUserCog",
+    "title": "Business Management",
+    "courses": "25 Courses"
+  },
+  {
+    "icon": "FaVideo",
+    "title": "Photography & Video",
+    "courses": "20 Courses"
+  },
+  {
+    "icon": "FaCube",
+    "title": "Art & Design System",
+    "courses": "35 Courses"
+  },
+  {
+    "icon": "SiBlockchaindotcom",
+    "title": "Blockchain Dev",
+    "courses": "15 Courses"
+  },
+  {
+    "icon": "MdCastForEducation",
+    "title": "Online Educations",
+    "courses": "26 Courses"
+  },
+  {
+    "icon": "PiPiBold",
+    "title": "Math & Technology",
+    "courses": "30 Courses"
+  },
+  {
+    "icon": "FaDumbbell",
+    "title": "Zym Center & Fitness",
+    "courses": "40 Courses"
+  },
+  {
+    "icon": "FaBrain",
+    "title": "Language Academy",
+    "courses": "50 Courses"
+  }
+]

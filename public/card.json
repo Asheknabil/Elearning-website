@@ -1,0 +1,202 @@
+{
+  "Design": [
+    {
+      "id": "d1",
+      "title": "Graphic Design Fundamentals: Build Your Portfolio",
+      "seats": 150,
+      "semesters": 12,
+      "rating": 5.0,
+      "totalRatings": 10,
+      "price": 39,
+      "instructor": "Robert Anderson",
+      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+1",
+      "badge": "New"
+    },
+    {
+      "id": "d2",
+      "title": "UI/UX Mastery: Prototyping and Testing",
+      "seats": 120,
+      "semesters": 10,
+      "rating": 4.8,
+      "totalRatings": 25,
+      "price": 59,
+      "instructor": "Jane Doe",
+      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+2",
+      "badge": null
+    },
+    {
+      "id": "d3",
+      "title": "Advanced Typography and Branding",
+      "seats": 180,
+      "semesters": 15,
+      "rating": 4.9,
+      "totalRatings": 15,
+      "price": 75,
+      "instructor": "Jhon Doe",
+      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+3",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "d4",
+      "title": "3D Modeling with Blender for Beginners",
+      "seats": 90,
+      "semesters": 8,
+      "rating": 4.5,
+      "totalRatings": 5,
+      "price": 25,
+      "instructor": "Mary Krisey",
+      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+4",
+      "badge": null
+    }
+  ],
+  "Development": [
+    {
+      "id": "v1",
+      "title": "Mastering React and State Management",
+      "seats": 200,
+      "semesters": 20,
+      "rating": 5.0,
+      "totalRatings": 30,
+      "price": 89,
+      "instructor": "Robert Anderson",
+      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+1",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "v2",
+      "title": "Full-Stack NodeJS and MongoDB",
+      "seats": 170,
+      "semesters": 19,
+      "rating": 4.9,
+      "totalRatings": 50,
+      "price": 79,
+      "instructor": "Mary Krisey",
+      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+2",
+      "badge": null
+    },
+    {
+      "id": "v3",
+      "title": "Python for Data Science and AI",
+      "seats": 150,
+      "semesters": 18,
+      "rating": 4.7,
+      "totalRatings": 45,
+      "price": 99,
+      "instructor": "Jane Doe",
+      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+3",
+      "badge": "New"
+    },
+    {
+      "id": "v4",
+      "title": "Cloud Computing with AWS & Azure",
+      "seats": 100,
+      "semesters": 15,
+      "rating": 4.6,
+      "totalRatings": 20,
+      "price": 109,
+      "instructor": "Jhon Doe",
+      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+4",
+      "badge": null
+    }
+  ],
+  "Academic": [
+    {
+      "id": "a1",
+      "title": "Calculus III: Multivariable Functions",
+      "seats": 120,
+      "semesters": 10,
+      "rating": 5.0,
+      "totalRatings": 8,
+      "price": 45,
+      "instructor": "Mary Krisey",
+      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+1",
+      "badge": "New"
+    },
+    {
+      "id": "a2",
+      "title": "Organic Chemistry Essentials",
+      "seats": 90,
+      "semesters": 15,
+      "rating": 4.8,
+      "totalRatings": 12,
+      "price": 65,
+      "instructor": "Robert Anderson",
+      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+2",
+      "badge": null
+    },
+    {
+      "id": "a3",
+      "title": "Introduction to Classical Literature",
+      "seats": 140,
+      "semesters": 12,
+      "rating": 4.9,
+      "totalRatings": 18,
+      "price": 35,
+      "instructor": "Jane Doe",
+      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+3",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "a4",
+      "title": "Modern European History: 1789-Present",
+      "seats": 110,
+      "semesters": 9,
+      "rating": 4.5,
+      "totalRatings": 6,
+      "price": 29,
+      "instructor": "Jhon Doe",
+      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+4",
+      "badge": null
+    }
+  ],
+  "E-Learning": [
+    {
+      "id": "e1",
+      "title": "The Ultimate Digital Marketing Blueprint",
+      "seats": 300,
+      "semesters": 8,
+      "rating": 4.9,
+      "totalRatings": 99,
+      "price": 59,
+      "instructor": "Sarah Chen",
+      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+1",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "e2",
+      "title": "Personal Finance and Investment Strategies",
+      "seats": 250,
+      "semesters": 6,
+      "rating": 4.7,
+      "totalRatings": 70,
+      "price": 49,
+      "instructor": "Robert Anderson",
+      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+2",
+      "badge": null
+    },
+    {
+      "id": "e3",
+      "title": "Public Speaking and Presentation Skills",
+      "seats": 180,
+      "semesters": 10,
+      "rating": 4.8,
+      "totalRatings": 85,
+      "price": 35,
+      "instructor": "Mary Krisey",
+      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+3",
+      "badge": "New"
+    },
+    {
+      "id": "e4",
+      "title": "Creative Writing Workshop: Fiction",
+      "seats": 150,
+      "semesters": 7,
+      "rating": 4.6,
+      "totalRatings": 55,
+      "price": 29,
+      "instructor": "Jhon Doe",
+      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+4",
+      "badge": null
+    }
+  ]
+}
