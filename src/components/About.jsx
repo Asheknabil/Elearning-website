@@ -18,27 +18,22 @@ const About = () => {
         />
     
 
-        <img
-          src={about2}
-          alt="Student"
-          className="absolute bottom-[-40px] right-[-20px] sm:bottom-[-50px] sm:right-[-30px] w-[130px] sm:w-[160px] md:w-[180px] h-auto object-cover rounded-2xl border-4 border-white shadow-xl z-20"
-        />
+<img
+  src={about2}
+  alt="Student"
+  className="absolute bottom-[-40px] md:right-[-10px] sm:right-[80px] lg:right-[120px] w-[130px] sm:w-[160px] md:w-[180px] h-auto object-cover rounded-2xl border-4 border-white shadow-xl z-20" />
+
 
       </div>
 
 
       <div className="text-center md:text-left mt-14 md:mt-0">
 
-        <div className="flex justify-center md:justify-start items-center gap-3 mb-3">
-          <span className="w-2 h-2 bg-blue-600 rounded-full"></span>
-          <h5 className="text-blue-600 font-semibold text-base sm:text-lg uppercase">
-            About Us
-          </h5>
-          <span className="w-2 h-2 bg-green-600 rounded-full"></span>
-        </div>
+        <h4 className="text-[#0fb6e3] ms-6 text-xl font-semibold relative inline-block mb-3 before:absolute before:-left-6 before:top-1/2 before:w-4 before:h-1 before:bg-blue-500 before:rounded-full after:absolute after:-right-6 after:top-1/2 after:w-4 after:h-1 after:bg-blue-500 after:rounded-full">
+        About Us
+        </h4>
 
-
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 leading-snug">
+        <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-black/80 mb-4 leading-snug">
           Experience Over 10 years <br className="hidden sm:block" /> with Online
           Educations
         </h2>
@@ -54,25 +49,25 @@ const About = () => {
         <ul className="space-y-2 mb-8 text-gray-800 text-sm sm:text-base">
 
           <li className="flex justify-center md:justify-start items-center gap-2">
-            <span className="text-blue-600">
+            <span className="text-black/80 text-3xl">
                 <TiTick />
             </span>
             Expert Trainers
           </li>
           <li className="flex justify-center md:justify-start items-center gap-2">
-            <span className="text-blue-600">
+            <span className="text-black/80 text-3xl">
                 <TiTick />
             </span>
             Online Remote Learning
           </li>
           <li className="flex justify-center md:justify-start items-center gap-2">
-            <span className="text-blue-600">
+            <span className="text-black/80 text-3xl">
                 <TiTick />
             </span>
             Lifetime Access
           </li>
           <li className="flex justify-center md:justify-start items-center gap-2">
-            <span className="text-blue-600">
+            <span className="text-black/80 text-3xl">
                 <TiTick />
             </span>
             Guide Sheet All Courses
@@ -80,10 +75,9 @@ const About = () => {
 
         </ul>
 
-
-        <button className="group inline-flex items-center gap-2 bg-blue-600 text-white font-medium px-5 sm:px-6 py-2.5 sm:py-3 rounded-full hover:bg-blue-700 transition-all duration-300">
+        <button className="group bg-[#0fb6e3] inline-flex items-center gap-2 text-white font-medium px-6 py-3 rounded-full shadow-md hover:shadow-lg hover:scale-99 transition-all duration-300">
           More About
-          <ArrowUpRight className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform duration-300" />
+          <ArrowUpRight className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform w-5 h-5" />
         </button>
       </div>
     </section>

@@ -2,14 +2,14 @@
   "Design": [
     {
       "id": "d1",
-      "title": "Graphic Design Fundamentals: Build Your Portfolio",
+      "title": "Graphic Design Fundamentals",
       "seats": 150,
       "semesters": 12,
       "rating": 5.0,
       "totalRatings": 10,
       "price": 39,
       "instructor": "Robert Anderson",
-      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+1",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
       "badge": "New"
     },
     {
@@ -21,7 +21,7 @@
       "totalRatings": 25,
       "price": 59,
       "instructor": "Jane Doe",
-      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+2",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
       "badge": null
     },
     {
@@ -33,7 +33,7 @@
       "totalRatings": 15,
       "price": 75,
       "instructor": "Jhon Doe",
-      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+3",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": "Best Seller"
     },
     {
@@ -45,7 +45,7 @@
       "totalRatings": 5,
       "price": 25,
       "instructor": "Mary Krisey",
-      "image": "https://placehold.co/400x300/6D28D9/ffffff?text=Design+Course+4",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
       "badge": null
     }
   ],
@@ -59,7 +59,7 @@
       "totalRatings": 30,
       "price": 89,
       "instructor": "Robert Anderson",
-      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+1",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
       "badge": "Best Seller"
     },
     {
@@ -71,7 +71,7 @@
       "totalRatings": 50,
       "price": 79,
       "instructor": "Mary Krisey",
-      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+2",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
       "badge": null
     },
     {
@@ -83,7 +83,7 @@
       "totalRatings": 45,
       "price": 99,
       "instructor": "Jane Doe",
-      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+3",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
       "badge": "New"
     },
     {
@@ -95,7 +95,7 @@
       "totalRatings": 20,
       "price": 109,
       "instructor": "Jhon Doe",
-      "image": "https://placehold.co/400x300/DB2777/ffffff?text=Dev+Course+4",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": null
     }
   ],
@@ -109,7 +109,7 @@
       "totalRatings": 8,
       "price": 45,
       "instructor": "Mary Krisey",
-      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+1",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
       "badge": "New"
     },
     {
@@ -121,7 +121,7 @@
       "totalRatings": 12,
       "price": 65,
       "instructor": "Robert Anderson",
-      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+2",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
       "badge": null
     },
     {
@@ -133,7 +133,7 @@
       "totalRatings": 18,
       "price": 35,
       "instructor": "Jane Doe",
-      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+3",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
       "badge": "Best Seller"
     },
     {
@@ -145,7 +145,7 @@
       "totalRatings": 6,
       "price": 29,
       "instructor": "Jhon Doe",
-      "image": "https://placehold.co/400x300/059669/ffffff?text=Academic+Course+4",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": null
     }
   ],
@@ -159,7 +159,7 @@
       "totalRatings": 99,
       "price": 59,
       "instructor": "Sarah Chen",
-      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+1",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": "Best Seller"
     },
     {
@@ -171,7 +171,7 @@
       "totalRatings": 70,
       "price": 49,
       "instructor": "Robert Anderson",
-      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+2",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
       "badge": null
     },
     {
@@ -183,7 +183,7 @@
       "totalRatings": 85,
       "price": 35,
       "instructor": "Mary Krisey",
-      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+3",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
       "badge": "New"
     },
     {
@@ -195,7 +195,7 @@
       "totalRatings": 55,
       "price": 29,
       "instructor": "Jhon Doe",
-      "image": "https://placehold.co/400x300/F59E0B/ffffff?text=E-Learning+Course+4",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
       "badge": null
     }
   ]
