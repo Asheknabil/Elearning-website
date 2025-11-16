@@ -1,4 +1,5 @@
 {
+  "All": [],
   "Design": [
     {
       "id": "d1",
@@ -47,6 +48,54 @@
       "instructor": "Mary Krisey",
       "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
       "badge": null
+    },
+    {
+      "id": "d5",
+      "title": "Photoshop Masterclass",
+      "seats": 140,
+      "semesters": 12,
+      "rating": 4.7,
+      "totalRatings": 20,
+      "price": 55,
+      "instructor": "Sarah Chen",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
+      "badge": "New"
+    },
+    {
+      "id": "d6",
+      "title": "Illustrator Advanced Techniques",
+      "seats": 130,
+      "semesters": 11,
+      "rating": 4.6,
+      "totalRatings": 18,
+      "price": 65,
+      "instructor": "Robert Anderson",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
+      "badge": null
+    },
+    {
+      "id": "d7",
+      "title": "Creative Logo Design",
+      "seats": 100,
+      "semesters": 9,
+      "rating": 4.8,
+      "totalRatings": 22,
+      "price": 45,
+      "instructor": "Jane Doe",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
+      "badge": null
+    },
+    {
+      "id": "d8",
+      "title": "Color Theory & Composition",
+      "seats": 110,
+      "semesters": 10,
+      "rating": 4.9,
+      "totalRatings": 19,
+      "price": 50,
+      "instructor": "Jhon Doe",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
+      "badge": "Best Seller"
     }
   ],
   "Development": [
@@ -97,6 +146,54 @@
       "instructor": "Jhon Doe",
       "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": null
+    },
+    {
+      "id": "v5",
+      "title": "JavaScript Advanced Patterns",
+      "seats": 120,
+      "semesters": 12,
+      "rating": 4.8,
+      "totalRatings": 25,
+      "price": 79,
+      "instructor": "Sarah Chen",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
+      "badge": null
+    },
+    {
+      "id": "v6",
+      "title": "TypeScript Essentials",
+      "seats": 130,
+      "semesters": 14,
+      "rating": 4.7,
+      "totalRatings": 22,
+      "price": 69,
+      "instructor": "Robert Anderson",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
+      "badge": "New"
+    },
+    {
+      "id": "v7",
+      "title": "Django & REST Framework",
+      "seats": 140,
+      "semesters": 16,
+      "rating": 4.8,
+      "totalRatings": 28,
+      "price": 99,
+      "instructor": "Jane Doe",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
+      "badge": null
+    },
+    {
+      "id": "v8",
+      "title": "React Native Mobile Apps",
+      "seats": 110,
+      "semesters": 13,
+      "rating": 4.9,
+      "totalRatings": 20,
+      "price": 89,
+      "instructor": "Jhon Doe",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
+      "badge": "Best Seller"
     }
   ],
   "Academic": [
@@ -147,6 +244,54 @@
       "instructor": "Jhon Doe",
       "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
       "badge": null
+    },
+    {
+      "id": "a5",
+      "title": "Linear Algebra Essentials",
+      "seats": 100,
+      "semesters": 11,
+      "rating": 4.7,
+      "totalRatings": 14,
+      "price": 49,
+      "instructor": "Sarah Chen",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
+      "badge": null
+    },
+    {
+      "id": "a6",
+      "title": "Physics II: Electromagnetism",
+      "seats": 130,
+      "semesters": 13,
+      "rating": 4.6,
+      "totalRatings": 20,
+      "price": 55,
+      "instructor": "Robert Anderson",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
+      "badge": "New"
+    },
+    {
+      "id": "a7",
+      "title": "Introduction to Philosophy",
+      "seats": 90,
+      "semesters": 9,
+      "rating": 4.8,
+      "totalRatings": 18,
+      "price": 39,
+      "instructor": "Jane Doe",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
+      "badge": null
+    },
+    {
+      "id": "a8",
+      "title": "Modern Literature Analysis",
+      "seats": 100,
+      "semesters": 10,
+      "rating": 4.9,
+      "totalRatings": 16,
+      "price": 45,
+      "instructor": "Jhon Doe",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
+      "badge": "Best Seller"
     }
   ],
   "E-Learning": [
@@ -197,6 +342,104 @@
       "instructor": "Jhon Doe",
       "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
       "badge": null
+    },
+    {
+      "id": "e5",
+      "title": "Digital Illustration Basics",
+      "seats": 120,
+      "semesters": 8,
+      "rating": 4.7,
+      "totalRatings": 40,
+      "price": 39,
+      "instructor": "Sarah Chen",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
+      "badge": "New"
+    },
+    {
+      "id": "e6",
+      "title": "Social Media Marketing",
+      "seats": 130,
+      "semesters": 9,
+      "rating": 4.6,
+      "totalRatings": 38,
+      "price": 49,
+      "instructor": "Robert Anderson",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
+      "badge": null
+    },
+    {
+      "id": "e7",
+      "title": "Email Marketing Strategies",
+      "seats": 110,
+      "semesters": 7,
+      "rating": 4.8,
+      "totalRatings": 30,
+      "price": 45,
+      "instructor": "Jane Doe",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
+      "badge": null
+    },
+    {
+      "id": "e8",
+      "title": "SEO Optimization Guide",
+      "seats": 140,
+      "semesters": 10,
+      "rating": 4.9,
+      "totalRatings": 33,
+      "price": 55,
+      "instructor": "Jhon Doe",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
+      "badge": "Best Seller"
+    }
+  ],
+  "ML": [
+    {
+      "id": "m1",
+      "title": "Machine Learning A-Z",
+      "seats": 150,
+      "semesters": 12,
+      "rating": 4.9,
+      "totalRatings": 45,
+      "price": 99,
+      "instructor": "Sarah Chen",
+      "image": "https://i.ibb.co.com/FLvSR0xQ/course-thumb-4.jpg",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "m2",
+      "title": "Deep Learning Fundamentals",
+      "seats": 130,
+      "semesters": 10,
+      "rating": 4.8,
+      "totalRatings": 40,
+      "price": 89,
+      "instructor": "Robert Anderson",
+      "image": "https://i.ibb.co.com/GKpQmys/course-thumb-1.jpg",
+      "badge": "New"
+    },
+    {
+      "id": "m3",
+      "title": "AI for Business",
+      "seats": 120,
+      "semesters": 8,
+      "rating": 4.7,
+      "totalRatings": 38,
+      "price": 79,
+      "instructor": "Jane Doe",
+      "image": "https://i.ibb.co.com/CKJQTWxY/course-thumb-3.jpg",
+      "badge": null
+    },
+    {
+      "id": "m4",
+      "title": "Reinforcement Learning Basics",
+      "seats": 140,
+      "semesters": 9,
+      "rating": 4.6,
+      "totalRatings": 35,
+      "price": 69,
+      "instructor": "Jhon Doe",
+      "image": "https://i.ibb.co.com/bgsQdBTC/course-thumb-2.jpg",
+      "badge": "New"
     }
   ]
 }
